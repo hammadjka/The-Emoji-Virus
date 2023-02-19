@@ -32,7 +32,7 @@ def encrypt_phrase(phrase):
         emoji = find_emoji(word)
         if emoji == None:
             emoji = words[i]
-            
+
         else:
             count += 1
        
@@ -82,7 +82,7 @@ def select_file(filename):
     random.shuffle(lines)
     return lines
 
-def main():
+if __name__ == "__main__":
     score = 0
     total = 0
     print("\nTHIS IS AN EMERGENCY! YOUR COMPUTER HAS BEEN HACKED BY THE EMOJI-19 VIRUS."+ 
@@ -90,58 +90,61 @@ def main():
             
     name = input("enter your name... ")
 
-    print("\nListen carefully {}! in order to proceed you must 🤔 all the emojis ✅-ly.\n"+
-        "You'll be given 10 seconds for each guess. your test begins now.\n".format(name))
+    print("\nListen carefully {}! in order to proceed you must 🤔 all the emojis ✅-ly.\n".format(name)+
+        "You'll be given 10 seconds for each guess. your test begins now.\n")
 
-    firstcheck = input("Choose an option to begin. \n"+
-                    "1. Emoji-fy a personalized string? \n"+
-                    "2. Guess the Emojized phrase, ☠️   CAUTION ☠️: Context will be lost in translation: ")
+    while True:
+        firstcheck = input("Choose an option to begin. \n"+
+                        "1. Emoji-fy a personalized string? \n"+
+                        "2. Guess the Emojized phrase, ☠️   CAUTION ☠️: Context will be lost in translation: \n")
+        
+        if(firstcheck == '2'):
+            check2 = input("Select option for Data bank types\n"+
+                        "1. Randomized (Difficulty: Easy)\n"+ 
+                        "2. Poem Statements (Difficulty: Hard)\n"+ 
+                        "3. Leave it to us: \n")
+
+            file_name= ""
+
+            if check2 == 1: file_name = "comprehensive.txt"
+            elif check2 == 2: file_name = "poems.txt"
+            else: file_name = "statements.txt"
+
+            lines = select_file(file_name)
+
+            for line in lines:
+                try:
+                    answer = encrypt_phrase(line)
+                except:
+                    continue
+                if answer[1] < 2: continue
+
+                print(answer[0])
+                for x in range(10, 0, -1): 
+                    print(x, end="... ", flush=True)
+                    time.sleep(1)
+                print("\n")
+                
+                print("The correct answer is: {}".format(line))
+                check = input("Did you guess it right Y or N? \n"+
+                            "THE EMOJI-19 VIRUS CAN TELL IF YOU'RE LYING "+
+                            "(100% not a bluff, please trust me I just wanna go home): \n")
+
+                if (check == 'Y' or check == 'y'):
+                    score += 1
+                
+                total += 1
+
+                quit = input("\nWould you like to quit? Y or N: ")
+                if quit == 'y' or quit == 'Y':
+                    break
+            print("Your score for the game {} / {} ".format(score,total))
+
+        else:
+            string1 = input("Enter the string you wish to emoji-fy: ")
+            answer = encrypt_phrase(string1)
+            print("Your original string: " , string1, "\nhas been emojified to: ", answer[0])
+        
+        brk = input("would you like to go back to the options page? Y or N: \n")
+        if brk == 'N' or brk == 'n': break
     
-    if(firstcheck == '2'):
-        check2 = input("Select option for Data bank types\n"+
-                    "1. Randomized (Difficulty: Easy)\n"+ 
-                    "2. Poem Statements (Difficulty: Hard)\n"+ 
-                    "3. Leave it to us: ")
-
-        file_name= ""
-
-        if check2 == 1: file_name = "comprehensive.txt"
-        elif check2 == 2: file_name = "poems.txt"
-        else: file_name = "statements.txt"
-
-        lines = select_file(file_name)
-
-        for line in lines:
-            try:
-                answer = encrypt_phrase(line)
-            except:
-                continue
-            if answer[1] < 2: continue
-
-            print(answer[0])
-            for x in range(10, 0, -1): 
-                print(x, end="... ", flush=True)
-                time.sleep(1)
-            print("\n")
-            
-            print("The correct answer is: {}".format(line))
-            check = input("Did you guess it right Y or N? \n"+
-                        "THE EMOJI-19 VIRUS CAN TELL IF YOU'RE LYING "+
-                        "(100% not a bluff, please trust me I just wanna go home)")
-
-            if (check == 'Y' or check == 'y'):
-                score += 1
-            
-            total += 1
-
-            quit = input("\nWould you like to quit? Y or N: ")
-            if quit == 'y' or quit == 'Y':
-                break
-        print("Your score for the game {} / {} ".format(score,total))
-
-    else:
-        string1 = input("Enter the string you wish to emoji-fy: ")
-        answer = encrypt_phrase(string1)
-        print("Your original string: " , string1, "\n has been emojified to: ", answer[0])
-    
-main()
