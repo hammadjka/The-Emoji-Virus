@@ -8,6 +8,6 @@ to the wacky world of Emoji19.
 
 ## To Build and Run:
 - clone the repository
-- make sure to have python 3.7 installed on your machine
+- make sure you have python 3.7 installed on your machine
 - install the required libraries imported at the top of the "Emoji19.py" file
 - run the "Emoji19" file and follow the instructions to play the game.
