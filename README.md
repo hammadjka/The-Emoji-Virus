@@ -1,10 +1,7 @@
 # The-Emoji-Virus
 
 ## Description:
-Welcome to Emoji19 - the virus that will take your English sentences and transform them into a colorful world of emojis! Our team of mischievous emoji engineers have 
-created a powerful virus that infects your computer **(not really tbh)**, but don't worry, it's all in good fun. Once the virus has taken hold, you'll see your boring, 
-mundane English sentences come to life with a colorful array of emojis that perfectly represent each and every word. Say goodbye to boring texts and emails and hello 
-to the wacky world of Emoji19.
+Welcome to Emoji19 - an innovative program that can transform your English sentences into expressive and colorful emojis. Our team have created a software that replaces words in your text with corresponding emojis. You'll see your boring, mundane English sentences come to life with a colorful array of emojis that perfectly represent each and every word. Say goodbye to boring texts and emails and hello to the wacky world of Emoji19.
 
 ## To Build and Run:
 - clone the repository
