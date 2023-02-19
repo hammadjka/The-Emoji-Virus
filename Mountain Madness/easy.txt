@@ -1,0 +1,343 @@
+Bird fly
+Tree sway
+Water flow
+Fire burn
+Fish swim
+Star shine
+Rock crumble
+Grass grow
+Wind blow
+Flower bloom
+Ice melt
+Earth rotate
+Lightning strike
+Thunder rumble
+Cloud form
+Mountain rise
+Ocean wave crash
+Snow fall
+Bee buzz
+Ant crawl
+Snake slither
+Frog croak
+Lizard sunbathe
+Spider spin web
+Butterfly flutter
+Dolphin leap
+Whale sing
+Shark hunt
+Monkey swing
+Elephant trumpet
+Tiger roar
+Lion prowl
+Bear hibernate
+Owl hoot
+Bat echolocate
+Kangaroo hop
+Penguin waddle
+Zebra graze
+Giraffe tower
+Cheetah sprint
+Wolf howl
+Fox hunt
+Squirrel gather
+Chipmunk scurry
+Rabbit burrow
+Deer graze
+Moose roam
+Elk bugle
+Bison stampede
+Eagle soar
+Hawk hunt
+Falcon dive
+Raven caw
+Crow perch
+Seagull squawk
+Pelican dive
+Heron wade
+Crane dance
+Swan glide
+Duck quack
+Goose honk
+Pigeon coo
+Sparrow chirp
+Robin sing
+Cardinal perch
+Blue jay squawk
+Woodpecker peck
+Hummingbird hover
+Flamingo stand
+Ostrich run
+Emu strut
+Crocodile bask
+Alligator lurk
+Turtle crawl
+Snail slide
+Clam burrow
+Lobster scuttle
+Crab scurry
+Squid ink
+Jellyfish sting
+Octopus hide
+Starfish regenerate
+Coral reef teem
+Seashell wash up
+Sand dune shift
+Volcano erupt
+Mountain erode
+Valley form
+River meander
+Waterfall cascade
+Canyon carve
+Desert stretch
+Oasis bloom
+Rainforest thrive
+Jungle grow
+Savanna spread
+Grassland sway
+Marsh teem
+Swamp stagnate
+Wetland preserve
+Cave form
+Geyser erupt
+Hot spring bubble
+Glacier creep
+Tundra freeze
+Polar ice cap melt
+Season change
+Day turn into night
+Sunset and sunrise paint the sky
+Rainbow arch
+Lightning bug glow
+Firefly flicker
+Shooting star streak
+Aurora borealis shimmer
+Solar eclipse darken
+Lunar eclipse redden
+Comet and meteor shower dazzle
+Constellation twinkle
+Planet orbit
+Moon rise and set
+Solar system spin
+Galaxy swirl
+Black hole
+Bat hang
+Fly buzz
+Cat purr
+Dog bark
+Pig oink
+Cow moo
+Goat bleat
+Sheep baa
+Horse neigh
+Donkey bray
+Rat squeak
+Mouse squeak
+Raccoon rummage
+Possum play dead
+Deer frolic
+Moose graze
+Bear growl
+Fox yelp
+Wolf snarl
+Lion roar
+Tiger pounce
+Cheetah sprint
+Leopard stalk
+Giraffe browse
+Zebra stripe
+Hippopotamus wallow
+Elephant trumpet
+Rhino charge
+Gorilla pound chest
+Chimpanzee groom
+Monkey chatter
+Squirrel bury
+Chipmunk store
+Rabbit nibble
+Skunk spray
+Badger dig
+Beaver build
+Otter play
+Seal swim
+Walrus bellow
+Penguin slide
+Kangaroo pouch
+Koala climb
+Sloth hang
+Toucan squawk
+Parrot mimic
+Pigeon coo
+Crow caw
+Raven perchBird fly
+Tree sway
+Water flow
+Fire burn
+Fish swim
+Star shine
+Rock crumble
+Grass grow
+Wind blow
+Flower bloom
+Ice melt
+Earth rotate
+Lightning strike
+Thunder rumble
+Cloud form
+Mountain rise
+Ocean wave crash
+Snow fall
+Bee buzz
+Ant crawl
+Snake slither
+Frog croak
+Lizard sunbathe
+Spider spin web
+Butterfly flutter
+Dolphin leap
+Whale sing
+Shark hunt
+Monkey swing
+Elephant trumpet
+Tiger roar
+Lion prowl
+Bear hibernate
+Owl hoot
+Bat echolocate
+Kangaroo hop
+Penguin waddle
+Zebra graze
+Giraffe tower
+Cheetah sprint
+Wolf howl
+Fox hunt
+Squirrel gather
+Chipmunk scurry
+Rabbit burrow
+Deer graze
+Moose roam
+Elk bugle
+Bison stampede
+Eagle soar
+Hawk hunt
+Falcon dive
+Raven caw
+Crow perch
+Seagull squawk
+Pelican dive
+Heron wade
+Crane dance
+Swan glide
+Duck quack
+Goose honk
+Pigeon coo
+Sparrow chirp
+Robin sing
+Cardinal perch
+Blue jay squawk
+Woodpecker peck
+Hummingbird hover
+Flamingo stand
+Ostrich run
+Emu strut
+Crocodile bask
+Alligator lurk
+Turtle crawl
+Snail slide
+Clam burrow
+Lobster scuttle
+Crab scurry
+Squid ink
+Jellyfish sting
+Octopus hide
+Starfish regenerate
+Coral reef teem
+Seashell wash up
+Sand dune shift
+Volcano erupt
+Mountain erode
+Valley form
+River meander
+Waterfall cascade
+Canyon carve
+Desert stretch
+Oasis bloom
+Rainforest thrive
+Jungle grow
+Savanna spread
+Grassland sway
+Marsh teem
+Swamp stagnate
+Wetland preserve
+Cave form
+Geyser erupt
+Hot spring bubble
+Glacier creep
+Tundra freeze
+Polar ice cap melt
+Season change
+Day turn into night
+Sunset and sunrise paint the sky
+Rainbow arch
+Lightning bug glow
+Firefly flicker
+Shooting star streak
+Aurora borealis shimmer
+Solar eclipse darken
+Lunar eclipse redden
+Comet and meteor shower dazzle
+Constellation twinkle
+Planet orbit
+Moon rise and set
+Solar system spin
+Galaxy swirl
+Black hole
+Bat hang
+Fly buzz
+Cat purr
+Dog bark
+Pig oink
+Cow moo
+Goat bleat
+Sheep baa
+Horse neigh
+Donkey bray
+Rat squeak
+Mouse squeak
+Raccoon rummage
+Possum play dead
+Deer frolic
+Moose graze
+Bear growl
+Fox yelp
+Wolf snarl
+Lion roar
+Tiger pounce
+Cheetah sprint
+Leopard stalk
+Giraffe browse
+Zebra stripe
+Hippopotamus wallow
+Elephant trumpet
+Rhino charge
+Gorilla pound chest
+Chimpanzee groom
+Monkey chatter
+Squirrel bury
+Chipmunk store
+Rabbit nibble
+Skunk spray
+Badger dig
+Beaver build
+Otter play
+Seal swim
+Walrus bellow
+Penguin slide
+Kangaroo pouch
+Koala climb
+Sloth hang
+Toucan squawk
+Parrot mimic
+Pigeon coo
+Crow caw
+Raven perch
