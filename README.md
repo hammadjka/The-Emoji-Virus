@@ -9,3 +9,7 @@ Welcome to Emoji19 - an innovative program that can transform your English sente
 - install the required libraries imported at the top of the "Emoji19.py" file
 - add this line of code right after the import statements in the "Emoji19.py" file: nltk.download('averaged_perceptron_tagger')
 - run the "Emoji19.py" file and follow the instructions to play the game.
+
+
+https://user-images.githubusercontent.com/98783499/220215321-23f08c3c-15eb-478e-ac94-13d333464c99.mp4
+
