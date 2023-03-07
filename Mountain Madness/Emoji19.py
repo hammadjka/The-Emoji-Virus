@@ -4,7 +4,10 @@ from nltk.stem import WordNetLemmatizer
 import random
 import time
 
+nltk.download('punkt')
 nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
+
 def load_json(filename):
     import json
     # Open the file and load its contents into a variable
